@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/controllers/controllers.iml" filepath="$PROJECT_DIR$/controllers/controllers.iml" />
-      <module fileurl="file://$PROJECT_DIR$/java9-features.iml" filepath="$PROJECT_DIR$/java9-features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java9-features.iml" filepath="$PROJECT_DIR$/.idea/java9-features.iml" />
       <module fileurl="file://$PROJECT_DIR$/services/services.iml" filepath="$PROJECT_DIR$/services/services.iml" />
     </modules>
   </component>
